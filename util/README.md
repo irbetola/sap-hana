@@ -1,4 +1,8 @@
-# Utility Scripts
+### <img src="../documentation/assets/UnicornSAPBlack256x256.png" width="64px"> SAP Automation > Utility Scripts <!-- omit in toc -->
+# Utility Scripts <!-- omit in toc -->
+Master Branch's status: [![Build Status](https://dev.azure.com/azuresaphana/Azure-SAP-HANA/_apis/build/status/Azure.sap-hana.v2?branchName=master)](https://dev.azure.com/azuresaphana/Azure-SAP-HANA/_build/latest?definitionId=6&branchName=master)
+
+<br>
 
 This directory contains some simple bash scripts that aid usage of the main codebase.
 The scripts are intended to be run on the user's workstation, and not on the machines deployed in Azure.
